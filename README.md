@@ -20,7 +20,7 @@ Animad uses a number of techs to work properly:
 
 - [ReactJS] - The framework that powers animad's frontend
 - [Node.js] - The rruntime environment to get the backend up and running.
-- [Cheerio.js] - The packge for scraping
+- [Cheerio.js] - The package for scraping
 - [Twitter Bootstrap] - great UI boilerplate for modern web apps
 
 ## Running Locally
